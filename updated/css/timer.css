@@ -1,0 +1,7 @@
+#dem{color: #fff; font-size: 6vh;position: fixed;top: 71vh;left: 37vw;}
+
+@media screen and (max-device-width: 480px){
+	#dem{
+		left: 22vw;
+	}
+}
